@@ -2,10 +2,12 @@
   "name": "PulaCoin",
   "symbol": "PULA",
   "description": "Everybody talks about it",
-  "uri": "https://github.com/athenian-x/PulaCoin/blob/main/PulaCoinIcon.png",
+  "image": "https://raw.githubusercontent.com/athenian-x/PulaCoin/main/PulaCoinIcon.png",
+  "attributes":[
+  ],
   "creators": [
     {
-        "address": "6cGVuaNMyfxkjqiDZZm2xMwqB9qk6AnEsuwAQFZdvjF4",
+        "address": "FHvZmKwDDS7Ti6DBhddur65VCXxKQksASzV4rCCVyiHi",
         "verified": true,
         "share": 100
     }
