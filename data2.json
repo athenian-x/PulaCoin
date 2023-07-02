@@ -5,11 +5,13 @@
   "image": "https://raw.githubusercontent.com/athenian-x/PulaCoin/main/PulaCoinIcon.png",
   "attributes":[
   ],
-  "creators": [
-    {
-        "address": "FHvZmKwDDS7Ti6DBhddur65VCXxKQksASzV4rCCVyiHi",
-        "verified": true,
-        "share": 100
-    }
-  ]
+  "properties":{
+    "creators": [
+      {
+          "address": "FHvZmKwDDS7Ti6DBhddur65VCXxKQksASzV4rCCVyiHi",
+          "verified": true,
+          "share": 100
+      }
+    ]
+  }
 }
